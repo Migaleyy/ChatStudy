@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: LINGESWARAN K
-### Reg.NO: 212222110022
+### Name: Migal G Arunadann
+### Reg.NO: 212222110025
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
